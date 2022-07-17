@@ -4,7 +4,7 @@ import utilStyles from '../styles/utils.module.css';
 
 import Image from 'next/image';
 import styles from '../styles/Home.module.css';
-import Link from 'next/Link';
+import Link from 'next/link';
 //need this for analytics,tag manager, other scripts,bot detectors, 
 //cookie consent managers,chat support, social media widgets.
 import Script from 'next/script'
