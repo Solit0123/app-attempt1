@@ -7,10 +7,10 @@ function SideNavBar() {
       <Nav.Link eventKey="link-1">Link</Nav.Link>
       <Nav.Link eventKey="link-2">Link</Nav.Link>
       <Nav.Link eventKey="disabled" disabled>
-        Disabled
+        Disable d
       </Nav.Link>
     </Nav>
   );
 }
 
-export default SideNavBar;
+export default SideNavBar;  
